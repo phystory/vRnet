@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 GFORTRAN module version '9' created from control.f90
 MD5:6b2dc349c815ceac6fe7b7310f321c07 -- If you edit this, you'll get what you deserve.
+=======
+GFORTRAN module version '6' created from control.f90 on Tue Jun  3 21:36:42 2014
+MD5:91511893cdb6185bdbb2517445b8fb53 -- If you edit this, you'll get what you deserve.
+>>>>>>> bf56c40e913c49827c03dbdd2c3db835bc409837
 
 (() () () () () () () () () () () () () () () () () () () () () () () ()
 () () ())

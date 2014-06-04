@@ -37,5 +37,11 @@ tso
 # Nuclear Data Directory
 Data_r-process_JINAv2.0
 # Initial Abundance and Thermodynamic Trajectory Files
+<<<<<<< HEAD
 Data_r-process_JINAv2.0/ab_ye26
 th_nuwind_newer
+=======
+Reaclib/ab_he4
+th_nuwind_new
+
+>>>>>>> b96189b93e992e825352ee6833376c3d749aa531

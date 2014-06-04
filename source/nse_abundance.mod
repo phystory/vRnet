@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 GFORTRAN module version '9' created from nse.f90
 MD5:84a83764eec31c6fc69cd7dcfe400b73 -- If you edit this, you'll get what you deserve.
 =======
 GFORTRAN module version '6' created from nse.f90 on Tue Jun  3 21:36:42 2014
+=======
+GFORTRAN module version '6' created from nse.f90 on Tue Jun  3 23:18:12 2014
+>>>>>>> b96189b93e992e825352ee6833376c3d749aa531
 MD5:00e1d331e2df7538ac6cce4ab157309c -- If you edit this, you'll get what you deserve.
 >>>>>>> bf56c40e913c49827c03dbdd2c3db835bc409837
 
